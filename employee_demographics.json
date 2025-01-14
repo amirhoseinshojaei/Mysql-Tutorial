@@ -1,0 +1,90 @@
+[
+	{
+		"employee_id" : 1,
+		"first_name" : "Leslie",
+		"last_name" : "Knope",
+		"age" : 44,
+		"gender" : "Female",
+		"birth_date" : "1979-09-25"
+	},
+	{
+		"employee_id" : 3,
+		"first_name" : "Tom",
+		"last_name" : "Haverford",
+		"age" : 36,
+		"gender" : "Male",
+		"birth_date" : "1987-03-04"
+	},
+	{
+		"employee_id" : 4,
+		"first_name" : "April",
+		"last_name" : "Ludgate",
+		"age" : 29,
+		"gender" : "Female",
+		"birth_date" : "1994-03-27"
+	},
+	{
+		"employee_id" : 6,
+		"first_name" : "Donna",
+		"last_name" : "Meagle",
+		"age" : 46,
+		"gender" : "Female",
+		"birth_date" : "1977-07-30"
+	},
+	{
+		"employee_id" : 7,
+		"first_name" : "Ann",
+		"last_name" : "Perkins",
+		"age" : 35,
+		"gender" : "Female",
+		"birth_date" : "1988-12-01"
+	},
+	{
+		"employee_id" : 8,
+		"first_name" : "Chris",
+		"last_name" : "Traeger",
+		"age" : 43,
+		"gender" : "Male",
+		"birth_date" : "1980-11-11"
+	},
+	{
+		"employee_id" : 9,
+		"first_name" : "Ben",
+		"last_name" : "Wyatt",
+		"age" : 38,
+		"gender" : "Male",
+		"birth_date" : "1985-07-26"
+	},
+	{
+		"employee_id" : 10,
+		"first_name" : "Andy",
+		"last_name" : "Dwyer",
+		"age" : 34,
+		"gender" : "Male",
+		"birth_date" : "1989-03-25"
+	},
+	{
+		"employee_id" : 11,
+		"first_name" : "Mark",
+		"last_name" : "Brendanawicz",
+		"age" : 40,
+		"gender" : "Male",
+		"birth_date" : "1983-06-14"
+	},
+	{
+		"employee_id" : 12,
+		"first_name" : "Craig",
+		"last_name" : "Middlebrooks",
+		"age" : 37,
+		"gender" : "Male",
+		"birth_date" : "1986-07-27"
+	},
+	{
+		"employee_id" : 13,
+		"first_name" : "Jean-Ralphio",
+		"last_name" : "Saperstein",
+		"age" : null,
+		"gender" : null,
+		"birth_date" : null
+	}
+]
