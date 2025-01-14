@@ -1,0 +1,106 @@
+[
+	{
+		"employee_id" : 1,
+		"first_name" : "Leslie",
+		"last_name" : "Knope",
+		"occupation" : "Deputy Director of Parks and Recreation",
+		"salary" : 75000,
+		"dept_id" : 1
+	},
+	{
+		"employee_id" : 2,
+		"first_name" : "Ron",
+		"last_name" : "Swanson",
+		"occupation" : "Director of Parks and Recreation",
+		"salary" : 70000,
+		"dept_id" : 1
+	},
+	{
+		"employee_id" : 3,
+		"first_name" : "Tom",
+		"last_name" : "Haverford",
+		"occupation" : "Entrepreneur",
+		"salary" : 50000,
+		"dept_id" : 1
+	},
+	{
+		"employee_id" : 4,
+		"first_name" : "April",
+		"last_name" : "Ludgate",
+		"occupation" : "Assistant to the Director of Parks and Recreation",
+		"salary" : 25000,
+		"dept_id" : 1
+	},
+	{
+		"employee_id" : 5,
+		"first_name" : "Jerry",
+		"last_name" : "Gergich",
+		"occupation" : "Office Manager",
+		"salary" : 50000,
+		"dept_id" : 1
+	},
+	{
+		"employee_id" : 6,
+		"first_name" : "Donna",
+		"last_name" : "Meagle",
+		"occupation" : "Office Manager",
+		"salary" : 60000,
+		"dept_id" : 1
+	},
+	{
+		"employee_id" : 7,
+		"first_name" : "Ann",
+		"last_name" : "Perkins",
+		"occupation" : "Nurse",
+		"salary" : 55000,
+		"dept_id" : 4
+	},
+	{
+		"employee_id" : 8,
+		"first_name" : "Chris",
+		"last_name" : "Traeger",
+		"occupation" : "City Manager",
+		"salary" : 90000,
+		"dept_id" : 3
+	},
+	{
+		"employee_id" : 9,
+		"first_name" : "Ben",
+		"last_name" : "Wyatt",
+		"occupation" : "State Auditor",
+		"salary" : 70000,
+		"dept_id" : 6
+	},
+	{
+		"employee_id" : 10,
+		"first_name" : "Andy",
+		"last_name" : "Dwyer",
+		"occupation" : "Shoe Shiner and Musician",
+		"salary" : 20000,
+		"dept_id" : null
+	},
+	{
+		"employee_id" : 11,
+		"first_name" : "Mark",
+		"last_name" : "Brendanawicz",
+		"occupation" : "City Planner",
+		"salary" : 57000,
+		"dept_id" : 3
+	},
+	{
+		"employee_id" : 12,
+		"first_name" : "Craig",
+		"last_name" : "Middlebrooks",
+		"occupation" : "Parks Director",
+		"salary" : 65000,
+		"dept_id" : 1
+	},
+	{
+		"employee_id" : 13,
+		"first_name" : "Jean-Ralphio",
+		"last_name" : "Saperstein",
+		"occupation" : "Exnertainment 720 CEO",
+		"salary" : 1000000,
+		"dept_id" : null
+	}
+]
